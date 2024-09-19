@@ -13,7 +13,6 @@ I'm Jaiwant pursuing Electronics Engineering. <br>I'm currently learning about A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwantD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-# Leetcode Stats:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Jaiwant_D18)](https://leetcode.com/Jaiwant_D18)
+
 
 
