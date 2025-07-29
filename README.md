@@ -13,6 +13,7 @@ I'm Jaiwant pursuing Electronics Engineering. <br>I'm currently learning about A
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiwantD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
   ![Github Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiwantD&theme=2077)
+  [![Jaiwant D's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiwantD)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
