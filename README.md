@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Jaiwant pursuing Electronics Engineering. <br>I'm currently learning about AI, CNN and machine Learning.<br>I'm looking to be a developer in AI as well as MERN stack.
+I'm Jaiwant pursuing Electronics Engineering. <br>I'm currently learning about Embedded Systems, Signal Processing and Software Development.<br>I'm looking to be a Embedded Software and Firmware Developer as well as Software Developer.
 
 
 ## 🌐 Socials:
